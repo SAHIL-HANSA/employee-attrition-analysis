@@ -1,0 +1,46 @@
+employee_id,first_name,last_name,age,gender,department,job_role,years_at_company,monthly_income,performance_rating,work_life_balance,job_satisfaction,education_level,marital_status,distance_from_home,overtime,attrition,attrition_date,exit_reason
+EMP001,John,Smith,32,Male,IT,Software Engineer,5,5500,4,3,4,Bachelor,Married,15,Yes,No,,
+EMP002,Sarah,Johnson,28,Female,Sales,Sales Representative,2,4200,3,2,2,Bachelor,Single,8,Yes,Yes,2024-03-15,Better Opportunity
+EMP003,Michael,Williams,45,Male,Finance,Financial Analyst,12,6800,5,4,5,Master,Married,5,No,No,,
+EMP004,Emily,Brown,26,Female,HR,HR Specialist,1,3800,3,4,3,Bachelor,Single,12,No,Yes,2024-01-22,Career Growth
+EMP005,David,Jones,35,Male,IT,Data Scientist,7,7200,5,3,4,Master,Married,20,Yes,No,,
+EMP006,Lisa,Garcia,29,Female,Marketing,Marketing Manager,4,5800,4,3,3,Master,Single,10,Yes,Yes,2024-05-08,Work-Life Balance
+EMP007,Robert,Miller,41,Male,Operations,Operations Manager,9,7500,4,4,4,Bachelor,Married,7,No,No,,
+EMP008,Jessica,Davis,24,Female,Sales,Sales Associate,1,3200,2,2,2,Bachelor,Single,25,Yes,Yes,2024-02-14,Low Compensation
+EMP009,James,Rodriguez,38,Male,Finance,Senior Analyst,8,6200,4,3,4,Master,Married,12,Yes,No,,
+EMP010,Amanda,Martinez,33,Female,IT,Software Developer,6,5800,4,2,3,Bachelor,Divorced,18,Yes,Yes,2024-04-20,Better Opportunity
+EMP011,Christopher,Anderson,27,Male,Sales,Sales Manager,3,5200,3,3,3,Bachelor,Single,9,Yes,No,,
+EMP012,Ashley,Taylor,31,Female,HR,HR Manager,5,6500,4,4,4,Master,Married,8,No,No,,
+EMP013,Matthew,Thomas,29,Male,IT,DevOps Engineer,3,5400,4,2,3,Bachelor,Single,22,Yes,Yes,2024-06-10,Work Stress
+EMP014,Jennifer,Jackson,26,Female,Marketing,Content Specialist,2,4000,3,4,3,Bachelor,Single,6,No,Yes,2024-07-18,Career Growth
+EMP015,Daniel,White,42,Male,Operations,Senior Manager,11,8200,5,4,5,Master,Married,11,No,No,,
+EMP016,Michelle,Harris,30,Female,Finance,Budget Analyst,4,4800,3,3,3,Bachelor,Married,14,Yes,No,,
+EMP017,Andrew,Martin,34,Male,IT,Tech Lead,6,6800,5,3,4,Master,Married,16,Yes,No,,
+EMP018,Stephanie,Thompson,25,Female,Sales,Inside Sales Rep,1,3500,2,2,2,Bachelor,Single,30,Yes,Yes,2024-08-05,Long Commute
+EMP019,Joshua,Garcia,37,Male,Marketing,Digital Marketer,5,5600,4,3,4,Bachelor,Married,13,Yes,No,,
+EMP020,Rachel,Lee,28,Female,HR,Recruiter,2,4200,3,4,3,Bachelor,Single,7,No,Yes,2024-09-12,Limited Growth
+EMP021,Kevin,Wilson,39,Male,Finance,Controller,10,7800,5,4,5,Master,Married,9,No,No,,
+EMP022,Nicole,Moore,32,Female,IT,QA Engineer,4,5200,3,2,2,Bachelor,Divorced,19,Yes,Yes,2024-04-28,Work-Life Balance
+EMP023,Brandon,Taylor,28,Male,Sales,Account Manager,3,4800,4,3,4,Bachelor,Single,11,Yes,No,,
+EMP024,Samantha,Anderson,26,Female,Marketing,Social Media Manager,2,4400,3,4,3,Bachelor,Single,8,No,Yes,2024-11-03,Better Opportunity
+EMP025,Tyler,Thomas,35,Male,Operations,Process Analyst,6,5600,4,3,3,Master,Married,15,Yes,No,,
+EMP026,Brittany,Jackson,29,Female,IT,Business Analyst,4,5400,4,3,4,Master,Single,12,Yes,No,,
+EMP027,Jordan,White,31,Male,Finance,Tax Analyst,5,5000,3,3,3,Bachelor,Married,10,Yes,Yes,2024-10-15,Career Change
+EMP028,Kayla,Martin,27,Female,HR,Benefits Coordinator,2,3900,3,4,3,Bachelor,Single,18,No,No,,
+EMP029,Austin,Harris,33,Male,Sales,Regional Manager,7,6500,4,3,4,Master,Married,14,Yes,No,,
+EMP030,Megan,Clark,25,Female,IT,Junior Developer,1,3800,3,3,3,Bachelor,Single,22,Yes,Yes,2024-12-01,Low Starting Salary
+EMP031,Ryan,Rodriguez,40,Male,Marketing,Brand Manager,8,6800,5,4,4,Master,Married,12,No,No,,
+EMP032,Lindsay,Lewis,30,Female,Operations,Quality Analyst,4,4600,3,3,3,Bachelor,Married,16,Yes,Yes,2024-03-22,Family Reasons
+EMP033,Nathan,Robinson,36,Male,Finance,Investment Analyst,9,7200,4,3,4,Master,Married,8,Yes,No,,
+EMP034,Chelsea,Walker,28,Female,IT,Systems Analyst,3,5000,4,2,3,Bachelor,Single,20,Yes,Yes,2024-05-30,Work Stress
+EMP035,Derek,Hall,32,Male,Sales,Enterprise Rep,5,5800,4,3,4,Bachelor,Married,13,Yes,No,,
+EMP036,Vanessa,Allen,29,Female,HR,Training Specialist,3,4400,3,4,4,Master,Single,9,No,No,,
+EMP037,Trevor,Young,34,Male,Marketing,Product Manager,6,6200,5,3,4,Master,Married,11,Yes,No,,
+EMP038,Danielle,Hernandez,26,Female,IT,UI/UX Designer,2,4800,3,4,3,Bachelor,Single,17,No,Yes,2024-08-20,Creative Differences
+EMP039,Marcus,King,38,Male,Operations,Supply Chain Analyst,7,5800,4,3,3,Bachelor,Married,14,Yes,No,,
+EMP040,Jasmine,Wright,31,Female,Finance,Credit Analyst,5,4900,3,3,3,Bachelor,Divorced,19,Yes,Yes,2024-07-08,Personal Reasons
+EMP041,Cameron,Lopez,27,Male,Sales,Business Development,2,4600,3,3,3,Bachelor,Single,23,Yes,No,,
+EMP042,Alexis,Hill,33,Female,IT,Database Administrator,6,5900,4,3,4,Master,Married,10,Yes,No,,
+EMP043,Blake,Scott,29,Male,Marketing,SEO Specialist,3,4700,3,3,3,Bachelor,Single,15,Yes,Yes,2024-09-25,Better Opportunity
+EMP044,Tiffany,Green,35,Female,HR,Compensation Analyst,8,5700,4,4,4,Master,Married,7,No,No,,
+EMP045,Cody,Adams,30,Male,Operations,Logistics Coordinator,4,4300,3,3,3,Bachelor,Married,21,Yes,Yes,2024-06-18,Relocation

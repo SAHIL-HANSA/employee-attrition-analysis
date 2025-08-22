@@ -1,1 +1,46 @@
-
+employee_id,review_date,performance_rating,goals_met,competency_score,leadership_score,teamwork_score,innovation_score,manager_rating,peer_feedback_score,self_assessment_score,improvement_areas,strengths,promotion_ready
+EMP001,2024-12-01,4,85,4.2,3.8,4.5,4.0,4,4.1,4.0,"Time management","Problem solving; Technical skills",Yes
+EMP002,2024-11-15,3,70,3.1,2.5,3.2,2.8,3,2.9,3.2,"Sales techniques; Customer relationship","Communication; Persistence",No
+EMP003,2024-10-20,5,95,4.8,4.5,4.7,4.2,5,4.6,4.8,"None identified","Financial analysis; Leadership; Mentoring",Yes
+EMP004,2024-09-30,3,75,3.3,3.0,3.5,3.1,3,3.2,3.4,"Policy knowledge; Experience","Organization; Communication",No
+EMP005,2024-11-10,5,92,4.7,4.2,4.4,4.8,5,4.5,4.6,"Project management","Data analysis; Innovation; Technical expertise",Yes
+EMP006,2024-08-25,4,82,4.0,4.1,3.9,4.3,4,3.8,3.9,"Strategic planning","Creativity; Team collaboration",Yes
+EMP007,2024-12-05,4,88,4.3,4.6,4.2,3.9,4,4.4,4.1,"Process optimization","Leadership; Operations management",Yes
+EMP008,2024-01-30,2,45,2.3,2.0,2.5,2.1,2,2.4,2.8,"Sales skills; Product knowledge; Goal setting","Enthusiasm; Punctuality",No
+EMP009,2024-10-15,4,86,4.1,3.9,4.0,3.8,4,4.2,4.0,"Risk assessment","Financial modeling; Attention to detail",Yes
+EMP010,2024-04-10,4,83,3.9,3.5,4.1,4.2,4,3.7,3.8,"Code optimization","Programming; Problem solving",Yes
+EMP011,2024-11-20,3,72,3.4,3.6,3.2,3.1,3,3.3,3.5,"Closing techniques","Relationship building; Territory management",No
+EMP012,2024-09-12,4,89,4.4,4.3,4.6,4.0,4,4.2,4.3,"Strategic HR planning","Employee relations; Policy development",Yes
+EMP013,2024-06-05,4,81,3.8,3.4,3.7,4.1,4,3.6,3.9,"System architecture","DevOps; Automation; Technical skills",Yes
+EMP014,2024-07-08,3,74,3.2,3.1,3.4,3.5,3,3.3,3.4,"Content strategy","Writing; Social media; Creativity",No  
+EMP015,2024-11-25,5,96,4.9,4.8,4.7,4.4,5,4.7,4.8,"None identified","Strategic leadership; Operations excellence",Yes
+EMP016,2024-10-30,3,76,3.5,3.2,3.6,3.3,3,3.4,3.5,"Forecasting accuracy","Budget analysis; Attention to detail",No
+EMP017,2024-12-08,5,94,4.6,4.4,4.5,4.7,5,4.3,4.5,"Delegation","Technical leadership; Innovation; Mentoring",Yes
+EMP018,2024-08-01,2,42,2.1,1.8,2.3,2.0,2,2.2,2.5,"Sales fundamentals; Territory planning","Energy; Willingness to learn",No
+EMP019,2024-11-18,4,84,4.1,3.8,4.0,4.2,4,3.9,4.0,"Campaign optimization","Digital marketing; Analytics",Yes
+EMP020,2024-09-05,3,71,3.0,2.9,3.3,3.1,3,3.1,3.2,"Recruiting strategies","Interview skills; Communication",No
+EMP021,2024-10-22,5,97,4.8,4.6,4.5,4.3,5,4.7,4.9,"None identified","Financial control; Leadership; Strategic thinking",Yes
+EMP022,2024-04-15,3,68,3.1,2.8,3.0,3.2,3,2.9,3.3,"Test automation","Quality assurance; Documentation",No
+EMP023,2024-11-28,4,87,4.2,4.0,4.3,3.9,4,4.1,4.0,"Account expansion","Client management; Communication",Yes
+EMP024,2024-10-31,3,73,3.3,3.2,3.5,3.4,3,3.2,3.4,"Social media strategy","Content creation; Engagement",No
+EMP025,2024-12-02,4,85,4.0,3.9,4.1,3.8,4,3.8,4.0,"Lean methodologies","Process improvement; Analysis",Yes
+EMP026,2024-11-12,4,82,3.9,3.7,4.0,4.1,4,3.8,3.9,"Data visualization","Business analysis; Requirements gathering",Yes
+EMP027,2024-10-08,3,69,3.2,3.0,3.1,2.9,3,3.1,3.3,"Tax regulations","Analytical skills; Compliance",No
+EMP028,2024-11-05,3,77,3.4,3.3,3.7,3.2,3,3.5,3.4,"Benefits administration","Employee support; Organization",No
+EMP029,2024-12-01,4,90,4.4,4.2,4.1,4.0,4,4.3,4.2,"Territory expansion","Sales leadership; Relationship management",Yes
+EMP030,2024-11-30,3,65,2.9,2.6,3.1,3.2,3,2.8,3.0,"Programming fundamentals","Learning ability; Collaboration",No
+EMP031,2024-10-18,5,93,4.7,4.5,4.3,4.6,5,4.4,4.6,"Market research","Brand strategy; Creative direction",Yes
+EMP032,2024-03-12,3,70,3.3,3.1,3.4,3.0,3,3.2,3.3,"Quality systems","Process documentation; Analysis",No
+EMP033,2024-11-22,4,88,4.3,4.0,3.9,4.1,4,4.1,4.2,"Portfolio management","Investment analysis; Research",Yes
+EMP034,2024-05-20,4,79,3.7,3.4,3.6,3.8,4,3.5,3.7,"System integration","Systems analysis; Problem solving",Yes
+EMP035,2024-12-03,4,86,4.1,3.9,4.2,3.8,4,4.0,4.0,"Enterprise sales","Relationship building; Negotiation",Yes
+EMP036,2024-11-15,3,78,3.6,3.4,3.8,3.5,3,3.7,3.5,"Learning technologies","Training design; Facilitation",No
+EMP037,2024-10-25,5,91,4.5,4.3,4.1,4.7,5,4.2,4.4,"Go-to-market strategy","Product strategy; Innovation",Yes
+EMP038,2024-08-12,3,72,3.2,3.0,3.4,3.6,3,3.1,3.3,"User research","Design; Creativity; User empathy",No
+EMP039,2024-11-18,4,84,4.0,3.8,4.0,3.7,4,3.9,4.1,"Supply chain optimization","Logistics; Vendor management",Yes
+EMP040,2024-07-02,3,67,3.1,2.9,3.2,2.8,3,3.0,3.2,"Credit risk analysis","Attention to detail; Compliance",No
+EMP041,2024-11-25,3,75,3.4,3.3,3.5,3.2,3,3.4,3.3,"Lead qualification","Business development; Networking",No
+EMP042,2024-12-05,4,83,3.9,3.6,3.8,4.0,4,3.7,3.9,"Database optimization","System administration; Security",Yes
+EMP043,2024-09-18,3,71,3.3,3.1,3.2,3.4,3,3.2,3.4,"SEO strategy","Content optimization; Analytics",No
+EMP044,2024-10-28,4,87,4.2,4.0,4.4,3.9,4,4.1,4.2,"Compensation benchmarking","HR analytics; Policy development",Yes
+EMP045,2024-06-10,3,68,3.2,3.0,3.3,3.1,3,3.1,3.4,"Logistics planning","Coordination; Problem solving",No
