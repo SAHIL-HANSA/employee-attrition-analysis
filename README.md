@@ -58,22 +58,16 @@ employee-attrition-analysis/
 │   └── visualization.py       # Data visualization and charts
 ├── excel/
 │   ├── attrition_dashboard.xlsx # Excel dashboard and pivot tables
-│   └── analysis_summary.xlsx   # Summary analysis and charts
 ├── data/
 │   ├── sample/
 │   │   ├── employee_data.csv   # Sample employee dataset
 │   │   ├── performance_data.csv # Performance evaluation data
 │   │   └── exit_survey_data.csv # Exit survey responses
-│   └── processed/
-│       └── attrition_analysis_clean.csv # Cleaned dataset
 ├── assets/
 │   ├── attrition_dashboard_main.png # Main analysis dashboard
 │   ├── demographic_analysis.png    # Demographic trends visualization
 │   ├── department_attrition.png    # Department-wise attrition
 │   └── retention_recommendations.png # Recommendations dashboard
-├── notebooks/
-│   ├── exploratory_analysis.ipynb # Jupyter notebook for EDA
-│   └── attrition_modeling.ipynb   # Predictive modeling notebook
 └── reports/
     ├── executive_summary.md    # Executive summary report
     └── technical_report.md     # Detailed technical analysis
