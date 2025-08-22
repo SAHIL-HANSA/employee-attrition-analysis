@@ -4,7 +4,7 @@
 
 This project demonstrates comprehensive HR analytics capabilities through the analysis of employee attrition data using SQL, Python, and Excel. The analysis identifies key patterns and trends in employee turnover, providing actionable insights to help organizations implement targeted retention strategies and reduce attrition risk.
 
-![Employee Attrition Dashboard](assets/attrition_dashboard_main.png)
+![Attrition Dashboard](assets/attrition_dashboard_main.png)
 
 ## 🎯 Project Objectives
 
